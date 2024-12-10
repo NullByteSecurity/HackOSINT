@@ -4,6 +4,7 @@
 
 **Состав команды, участвовавший на HOCTF24:**
 [rolegiv](https://github.com/rolegiv) [w33d](https://github.com/w3irdd) [pyatno](https://github.com/pyatno)
+
 ![image](https://github.com/rolegiv/CTF-Writeups/assets/147992165/20d64767-59ba-4632-888c-66222c845474)
 
 **Misc**
